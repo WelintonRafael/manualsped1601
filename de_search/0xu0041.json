@@ -1,0 +1,18 @@
+[
+	{ "s": "A", "p": [9, 5, 2, 11, 8, 7, 6] },
+	{ "s": "ABAIXO", "p": [9, 6, 4] },
+	{ "s": "ADMINISTRADORA", "p": [7] },
+	{ "s": "ADMINISTRADORAS", "p": [3, 11] },
+	{ "s": "AJUSTAR", "p": [2] },
+	{ "s": "AJUSTE", "p": [2] },
+	{ "s": "AJUSTES", "p": [2] },
+	{ "s": "ANTES", "p": [2] },
+	{ "s": "AO", "p": [9, 11, 8, 5, 2] },
+	{ "s": "APRESENTADA", "p": [5] },
+	{ "s": "APÓS", "p": [9] },
+	{ "s": "ARQUIVO", "p": [2, 1] },
+	{ "s": "AS", "p": [6, 11, 10, 8] },
+	{ "s": "ASSIM", "p": [2] },
+	{ "s": "ATIVO", "p": [5] },
+	{ "s": "AUTOMÁTICO", "p": [5] }
+]

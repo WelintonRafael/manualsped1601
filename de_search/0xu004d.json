@@ -1,0 +1,11 @@
+[
+	{ "s": "MANTER", "p": [4] },
+	{ "s": "MANUAL", "p": [1] },
+	{ "s": "MANUTENÇÃO", "p": [4] },
+	{ "s": "MARCAR", "p": [10] },
+	{ "s": "MARCKTPLACE", "p": [9] },
+	{ "s": "MARKTPLACE", "p": [5] },
+	{ "s": "MERCADOLIVRE", "p": [2] },
+	{ "s": "MESMO", "p": [8, 2] },
+	{ "s": "MODELO", "p": [9] }
+]

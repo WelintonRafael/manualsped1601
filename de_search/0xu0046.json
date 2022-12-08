@@ -1,0 +1,18 @@
+[
+	{ "s": "F10", "p": [9] },
+	{ "s": "FAZ", "p": [2] },
+	{ "s": "FECHAMENTO", "p": [10] },
+	{ "s": "FEITAS", "p": [9, 6] },
+	{ "s": "FEITO", "p": [6] },
+	{ "s": "FICAR", "p": [5] },
+	{ "s": "FIDELIDADE", "p": [7] },
+	{ "s": "FINALIZADAS", "p": [9] },
+	{ "s": "FINALIZAR", "p": [2] },
+	{ "s": "FINANCEIRA", "p": [2, 4] },
+	{ "s": "FISCAIS", "p": [5] },
+	{ "s": "FISCAL", "p": [7] },
+	{ "s": "FOR", "p": [8] },
+	{ "s": "FORMA", "p": [9, 8, 7, 6, 4, 3] },
+	{ "s": "FORNECEDOR", "p": [11, 4, 2] },
+	{ "s": "FORNECEDORES", "p": [5, 4, 3] }
+]

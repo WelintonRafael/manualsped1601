@@ -1,0 +1,13 @@
+[
+	{ "s": "VAI", "p": [5, 9] },
+	{ "s": "VALOR", "p": [11] },
+	{ "s": "VALORES", "p": [11, 10, 4] },
+	{ "s": "VENDA", "p": [5, 2, 9] },
+	{ "s": "VENDA(INTERMEDIADOR", "p": [5] },
+	{ "s": "VENDAS", "p": [6, 9, 5, 8, 7, 2, 10, 4] },
+	{ "s": "VERIFICA", "p": [5] },
+	{ "s": "VIA", "p": [2] },
+	{ "s": "VINCULADAS", "p": [2] },
+	{ "s": "VINCULAR", "p": [2] },
+	{ "s": "VOU", "p": [11] }
+]

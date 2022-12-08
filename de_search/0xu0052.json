@@ -1,0 +1,13 @@
+[
+	{ "s": "RAZÃO", "p": [5] },
+	{ "s": "RECEBE", "p": [8] },
+	{ "s": "RECEBERAM", "p": [3] },
+	{ "s": "RECEBERÁ", "p": [4] },
+	{ "s": "RECEBIMENTO", "p": [8, 7, 2] },
+	{ "s": "RECEBIMENTOS", "p": [11] },
+	{ "s": "RECEITAS", "p": [11] },
+	{ "s": "REDE", "p": [11, 7, 3] },
+	{ "s": "REFERENTE", "p": [8] },
+	{ "s": "REGISTRO", "p": [1, 10] },
+	{ "s": "REGISTROS", "p": [7] }
+]

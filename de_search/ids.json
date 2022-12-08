@@ -1,0 +1,13 @@
+{
+	"1": ["Manual para Registro 1601 do SPED. ICMS/IPI", "index.htm"],
+	"2": ["1. 1. Ajustes dos Cadastros.", "1__ajustes_dos_cadastros_.htm"],
+	"3": ["1.1. 1.1. Cadastro de Cartão de Crédito/Débito.", "1_1__cadastro_de_cartao_de_credito_debito_.htm"],
+	"4": ["1.2. 1.2. Cadastro de PIX.", "1_2__cadastro_de_pix_.htm"],
+	"5": ["1.3. 1.3 Cadastro Origem da Venda(Intermediador)", "1_3_cadastro_origem_da_venda_intermediador_.htm"],
+	"6": ["2. 2.Operações de Vendas", "2_operacoes_de_vendas.htm"],
+	"7": ["2.1. 2.1 - Vendas Recebimento de Cartão Crédito /Débito.", "2_1___vendas_recebimento_de_cartao_credito__debito_.htm"],
+	"8": ["2.2. 2.2 - Vendas Recebimento  por PIX.", "2_2___vendas_recebimento__por_pix_.htm"],
+	"9": ["2.3. 2.3- Vendas com Intermediador.", "2_3__vendas_com_intermediador_.htm"],
+	"10": ["3. 3. Gerar SPED ICMS/IPI", "3__gerar_sped_icms_ipi.htm"],
+	"11": ["3.1. Editar os valores gerados pelas receitas ou incluir valor de recebimentos.", "editar_os_valores_gerados_pelas_receitas_ou_incluir_valor_de_recebimentos_.htm"]
+}

@@ -1,0 +1,22 @@
+[
+	{ "s": "PAGAMENTE", "p": [9] },
+	{ "s": "PAGAMENTO", "p": [2, 10, 8, 7, 6, 4, 3] },
+	{ "s": "PARA", "p": [5, 2, 1, 6, 11, 10, 9, 8, 7, 4] },
+	{ "s": "PARAMETRIZADOPARA", "p": [2] },
+	{ "s": "PARTE", "p": [5] },
+	{ "s": "PARTIPANTES", "p": [2] },
+	{ "s": "PARÂMETROS", "p": [4] },
+	{ "s": "PELA", "p": [6] },
+	{ "s": "PELAS", "p": [11] },
+	{ "s": "PELO", "p": [9, 6] },
+	{ "s": "PERMITI", "p": [11] },
+	{ "s": "PIX", "p": [8, 4, 2, 6] },
+	{ "s": "POR", "p": [8] },
+	{ "s": "PRECISAMOS", "p": [2] },
+	{ "s": "PRECISO", "p": [2] },
+	{ "s": "PREENCHER", "p": [5] },
+	{ "s": "PROCESSO", "p": [2, 11] },
+	{ "s": "PROCESSOS", "p": [6] },
+	{ "s": "PRÉ", "p": [5] },
+	{ "s": "PRÉ-VENDA", "p": [5] }
+]
